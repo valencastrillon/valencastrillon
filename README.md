@@ -16,18 +16,14 @@ Aunque mi enfoque principal está en el desarrollo web, soy muy curiosa y siempr
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ## 🚀 Proyectos  
 
-["Challenge-Conversor-de-Monedas"](https://github.com/valencastrillon/Challenge-Conversor-de-Monedas) - Proyecto practico para el cambio de divisas, desarrollado durante el curso Backend de Alura Latam/Oracle.
-
-["Challenge-de-Literalura"](https://github.com/valencastrillon/Challenge-de-Literalura) - Ejercicio practico para mirar las reseñas e informacion de libros, desarrollado durante el curso Backend de Alura Latam/Oracle.
-
-["Challenge-ForoHub"](https://github.com/valencastrillon/Challenge-ForoHub) -Se construyo una API REST, desarrollado durante el curso Backend de Alura Latam/Oracle.
-
-["Juego-Adivina-el-Numero"](https://github.com/valencastrillon/Juego-Adivina-el-Numero) - Aplicativo web para mostrar un numero aleatorio sin repetirse, utiliza la misma logica de mi proyecto ["Challenge-Amigo-Secreto"](https://github.com/valencastrillon/Challenge-Amigo-Secreto), desarrollados durante el curso Backend de Alura Latam/Oracle.
+[Ver Portafolio](https://portafolio-valentina-castrillon.lovable.app/)
 
 ---
 
