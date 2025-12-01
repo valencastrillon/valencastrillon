@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy Valen...Bienvenido/a a mi servidor de ideas 😉  
-
-Soy **QA Engineer** y **Desarrolladora Backend**.  
-Aunque mi enfoque principal está en el desarrollo web, soy muy curiosa y siempre estoy dispuesta a expandir mis conocimientos, explorar nuevos lenguajes y herramientas para contribuir de manera efectiva y adaptarme a las necesidades de los proyectos en los que participo.  
+ 
+Technical PM who codes & tests | Full-Stack + Web QA Automation | React • Node.js • Katalon • Selenium | US/EU clients welcome
 
 ---
 
