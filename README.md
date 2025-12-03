@@ -1,6 +1,15 @@
 # 👋 ¡Hola! Soy Valen...Bienvenido/a a mi servidor de ideas 😉  
  
-Technical PM who codes & tests | Full-Stack + Web QA Automation | React • Node.js • Katalon • Selenium | US/EU clients welcome
+Construyo productos estables, escalables y bien documentados.
+Mi background mezclado entre procesos, calidad, software empresarial y desarrollo me permite entender un negocio de punta a punta: desde cómo se planea hasta cómo se construye y se automatiza.
+
+Hoy me enfoco en tres cosas:
+
+-Desarrollar software limpio y mantenible.
+
+-Automatizar pruebas y flujos que le ahorran tiempo a los equipos.
+
+-Crear claridad técnica y operativa para que los proyectos no colapsen.
 
 ---
 
