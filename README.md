@@ -31,7 +31,7 @@ Hoy me enfoco en tres cosas:
 
 ## 🚀 Proyectos  
 
-[Ver Portafolio](https://portafolio-valentina-castrillon.lovable.app/)
+[Ver Portafolio]([https://portafoliovca.lovable.app])
 
 ---
 
