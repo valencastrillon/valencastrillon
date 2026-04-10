@@ -45,13 +45,22 @@ Hoy me enfoco en tres cosas:
 ---
 
 ### 💻 YouTube Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Video 1](https://ytcards.demolab.com/?id=0RH34VmISw8&title=Video+1&lang=en&timestamp=1700000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600)](https://youtu.be/0RH34VmISw8)
 
-[![Video 2](https://ytcards.demolab.com/?id=kkAG2Zme1N0&title=Video+2&lang=en&timestamp=1700000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600)](https://youtu.be/kkAG2Zme1N0)
+<div align="center">
 
-[![Video 3](https://ytcards.demolab.com/?id=vYOxwn170UI&title=Video+3&lang=en&timestamp=1700000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=600)](https://youtu.be/vYOxwn170UI)
-<!-- END YOUTUBE-CARDS -->
+  <a href="https://youtu.be/0RH34VmISw8">
+    <img width="250" src="https://ytcards.demolab.com/?id=0RH34VmISw8&title=To+Do+List+Minimalista+%7C+React+%2B+Tailwind" />
+  </a>
+
+  <a href="https://youtu.be/kkAG2Zme1N0">
+    <img width="250" src="https://ytcards.demolab.com/?id=kkAG2Zme1N0&title=Piedra+Papel+o+Tijera+%7C+React+Tutorial" />
+  </a>
+
+  <a href="https://youtu.be/vYOxwn170UI">
+    <img width="250" src="https://ytcards.demolab.com/?id=vYOxwn170UI&title=Calculadora+Kawaii+%7C+React" />
+  </a>
+
+</div>
 
 ---
 
